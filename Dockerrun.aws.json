@@ -23,7 +23,7 @@
         "options": {
           "awslogs-create-group": true,
           "awslogs-group": "/aws/elasticbeanstalk/somleng-freeswitch-webserver/freeswitch.log",
-          "awslogs-region": "ap-southeast-1"
+          "awslogs-region": "eu-west-1"
         }
       }
     }
